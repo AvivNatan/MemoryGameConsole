@@ -1,0 +1,12 @@
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\obj\Debug\Ex02_ConsoleUi.csproj.AssemblyReference.cache
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\obj\Debug\Ex02_ConsoleUi.csproj.CoreCompileInputs.cache
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\bin\Debug\Ex02_ConsoleUi.exe.config
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\bin\Debug\Ex02_ConsoleUi.exe
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\bin\Debug\Ex02_ConsoleUi.pdb
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\bin\Debug\Ex02_System.dll
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\bin\Debug\Ex02_System.pdb
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\bin\Debug\Ex02_System.dll.config
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\obj\Debug\Ex02_ConsoleUi.csproj.CopyComplete
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\obj\Debug\Ex02_ConsoleUi.exe
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\obj\Debug\Ex02_ConsoleUi.pdb
+C:\Users\aviv1\source\repos\B24 Ex02 Aviv 209518844 Sara 209297225\Ex02_ConsoleUi\bin\Debug\Ex02.ConsoleUtils.dll
